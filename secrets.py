@@ -1,2 +1,2 @@
-client_id = '571d727cf24f46a2ac2a8dbd5e0bb5c5'
-client_secret='be654e49ddff49ebb33d55172d1d7a7d'
+client_id = ''
+client_secret=''
